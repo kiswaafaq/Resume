@@ -9,10 +9,10 @@ export default function Qualification(){
             My educational journey has instilled discipline, a solid academic grounding, and a continuous drive to excel and adapt in a rapidly evolving field. 
             Equipped with a blend of technical know-how and academic rigor, I am prepared to contribute effectively to professional challenges.</p>
             <ul className="flex space-x-10">
-    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3"><Link href="/">Home</Link></li>
-    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3"> <Link href="/about"> About </Link> </li>
-    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3"> <Link href="/qualification">Qualifications</Link></li>
-    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3"> <Link href="/contact"> Contact </Link> </li>
+    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3 bg-[#B9E5E8]"><Link href="/">Home</Link></li>
+    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3 bg-[#B9E5E8]"> <Link href="/about"> About </Link> </li>
+    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3 bg-[#B9E5E8]"> <Link href="/qualification">Qualifications</Link></li>
+    <li className="text-[#4A628A] font-bold font-sans hover:font-serif m-3 bg-[#B9E5E8]"> <Link href="/contact"> Contact </Link> </li>
             </ul> 
   </div>
  )

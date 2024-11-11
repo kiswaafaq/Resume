@@ -7,7 +7,7 @@ export default function contact(){
         <h1 className="p=4 m-4 text-[#003C43] m-3">If you are interested in hiring, then you can surely contact me on:</h1>
         <ol>
             <li className="text-[#609BC1] font-bold bg-[#D4F6FF] font-sans md:font-serif"><Link href="https://www.linkedin.com/in/kiswaafaq?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> 1 Linkedin</Link></li>
-            <li className="text-[#608BC1] font-bold bg-[#D4F6FF] font-sans md:font-serif"><Link href="kiswafaque14@gmail.com">2 Email</Link></li>
+            <li className="text-[#608BC1] font-bold bg-[#D4F6FF] font-sans md:font-serif"><a href="mailto:kiswaafaque14@gmail.com"> 2 Email</a></li>
             <li className="text-[#608BC1] font-bold bg-[#D4F6FF] font-sans md:font-serif"><Link href="https://www.instagram.com/k1swa_aa?igsh=MThkZXplbHQ5YXF6cA==">3 Instagram</Link></li>
         </ol>
         <p className="test-[#4F1787] p-4 m-4">Thank you for taking the time to read my resume. I look forward to the opportunity to bring my skills and dedication to your team.</p>
